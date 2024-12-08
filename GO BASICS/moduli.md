@@ -10,7 +10,7 @@ Ogni modulo è identificato da un **nome del modulo**, solitamente corrispondent
 
 Quando crei un modulo, Go genera un file chiamato `go.mod`. Questo file:
 
-- Specifica il **nome del modulo**.
+- Specifica il **nome del modulo** o il **percorso dove puà essere trovato**.
 - Elenca le **dipendenze** (cioè altri moduli) necessari per il progetto.
 - Gestisce le versioni delle dipendenze per garantire coerenza.
 
