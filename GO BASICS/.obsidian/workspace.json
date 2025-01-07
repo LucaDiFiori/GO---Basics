@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "261d0ba3aeea7a3b",
+        "id": "26644a6f788ffd8f",
         "type": "tabs",
         "children": [
           {
-            "id": "da85f16ae10adac5",
+            "id": "1128fec82888d937",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Write to Files.md",
+                "file": "6. Arrays, Slices & Maps/2. Selecting Parts of Arrays With Slices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Write to Files"
+              "title": "2. Selecting Parts of Arrays With Slices"
+            }
+          },
+          {
+            "id": "929b511b6666f6bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Arrays, Slices & Maps/3. More Ways Of Selecting Slices.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. More Ways Of Selecting Slices"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,22 +177,40 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "da85f16ae10adac5",
+  "active": "929b511b6666f6bb",
   "lastOpenFiles": [
-    "4. Funzioni & return values.md",
-    "1.Panoramica di Go.md",
-    "6. Write to Files.md",
-    "8. Handling Errors.md",
-    "9. Panic.md",
-    "7. Read from files.md",
-    "5. type ERROR.md",
-    "Defer.md",
-    "Slices.md",
-    "3. Array.md",
-    "2. fmt.md",
-    "moduli.md",
+    "6. Arrays, Slices & Maps/2. Selecting Parts of Arrays With Slices.md",
+    "6. Arrays, Slices & Maps/3. More Ways Of Selecting Slices.md",
+    "1. Essentials/1.Panoramica di Go.md",
+    "6. Arrays, Slices & Maps/1. Introducing Arrays.md",
+    "Slices - general.md",
+    "5. Interfaces & Generic Code/6. Generics.md",
+    "6. Arrays, Slices & Maps",
+    "5. Interfaces & Generic Code/5. Type Assertion.md",
+    "5. Interfaces & Generic Code/3. interface{}.md",
+    "5. Interfaces & Generic Code/4. Type Switch.md",
+    "5. Interfaces & Generic Code/2. Embedded Interfaces.md",
+    "5. Interfaces & Generic Code/1. Interfaces.md",
+    "4. Structs & Custom Types/9. Struct Tags.md",
+    "4. Structs & Custom Types/3. Creation - Constructor Functions.md",
+    "4. Structs & Custom Types/2. Metodi nelle struct.md",
+    "4. Structs & Custom Types/1. Struct Basics.md",
     "concorrenza.md",
-    "package.md",
-    "Welcome.md"
+    "5. Interfaces & Generic Code",
+    "4. Structs & Custom Types/8. \"bufio\".md",
+    "4. Structs & Custom Types/7. Altri Custom Types e loro Metodi.md",
+    "4. Structs & Custom Types/6. Struct Embedding.md",
+    "4. Structs & Custom Types/4. Validazione attraverso Constructor function.md",
+    "4. Structs & Custom Types/5. Struct, Packages & Exports.md",
+    "3. Pointers/1. Sintassi.md",
+    "4. Structs & Custom Types",
+    "2. Packages/2. Splitting Code Across Multiple Packages.md",
+    "3. Pointers",
+    "2. Packages/3. third party packages.md",
+    "1. Essentials/10. Esportazione in Go.md",
+    "2. Packages/1. Splitting Code Across Files In The Same Package.md",
+    "2. Packages",
+    "1. Essentials",
+    "1."
   ]
 }
